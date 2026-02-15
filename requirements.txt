@@ -1,0 +1,3 @@
+mediapipe
+Flask
+flask-cors
